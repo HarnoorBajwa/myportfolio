@@ -106,18 +106,15 @@ html{
 }
 #intro{
     display: flex;
-    border: solid red thin;
     flex-direction: column;
     text-align: justify;
     padding: 10px;
 }
 #intro h2{
-    border: solid purple;
     font-size: 2rem;
     margin-bottom: 20px;
 }
 #intro p{
-    border: solid yellow thin;
     font-family: Helvetica;
     font-size: larger;
 }
