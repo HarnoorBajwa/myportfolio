@@ -43,7 +43,6 @@ html{
     display: flex;
     flex-direction: column;
     background-color: rgba(0, 0, 0, 0.1); 
-    
     height: 840px;
     justify-content: center;
     align-items: center;
@@ -65,7 +64,7 @@ html{
     flex-direction: column;
     align-items: center;
     position: absolute;
-    top: 50%;
+    top: 45%;
     right: 8%;
 }
 .headings{
@@ -120,7 +119,7 @@ html{
 #intro p{
     border: solid yellow thin;
     font-family: Helvetica;
-    font-size: large;
+    font-size: larger;
 }
 
 /* Portfolio Section*/

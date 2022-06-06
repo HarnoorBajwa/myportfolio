@@ -7,8 +7,8 @@
 }
 /*About*/
 #pic img{
-    width: 400x;
-    height: 175px;
+    width: 100%;
+    height: auto;
 }
 #intro h2{
     font-size: 1.5rem;
